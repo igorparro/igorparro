@@ -1,10 +1,4 @@
-- 👋 Hi, I’m @igorparro
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-
-<!---
-igorparro/igorparro is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+- 👋 Hi, I’m Igor Parro 
+- 👀 I’m interested in Python
+- 🌱 I’m currently learning Python/IA/WEB/SCRAPING/RPA
+- 📫 How to reach me: Email: igorparroarcas@gmail.com / linkedin: https://www.linkedin.com/in/igor-parro-arcas-35b56a19b/

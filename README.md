@@ -1,4 +1,6 @@
 - 👋 Hi, I’m Igor Parro 
-- 👀 I’m interested in Python
-- 🌱 I’m currently learning Python/IA/WEB/SCRAPING/RPA
-- 📫 How to reach me: Email: igorparro.dev@gmail.com / linkedin: https://www.linkedin.com/in/igor-parro-arcas/
+- 👀 I’m interested in PYTHON
+- 🌱 I’m currently learning PYTHON/RPA/IA
+- 📫 Email: igorparro.dev@gmail.com
+- Linkedin: https://www.linkedin.com/in/igor-parro-arcas/
+- portifólio: https://igorparrodev.wixsite.com/my-site-1
